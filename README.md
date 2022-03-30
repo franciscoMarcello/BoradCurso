@@ -43,7 +43,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
 - [API do paypal](https://developer.paypal.com/home)
-- [JavaScript](https://www.javascript.com/)
+- [TypeScript](https://www.typescriptlang.org/)
   
 # Abrir e rodar o projeto
 ## Clone este repositório
